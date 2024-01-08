@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pos
+  - trashcan
+  - Miner
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Effect
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Object
+    uniqueID: 4076630681
+    locked: 0
+  - name: Miner
+    uniqueID: 2049727221
+    locked: 0
+  - name: MinerObject
+    uniqueID: 4011768209
+    locked: 0
+  - name: Particle
+    uniqueID: 2391675641
+    locked: 0
+  - name: PopUP
+    uniqueID: 2368846409
+    locked: 0
+  - name: PopupEffect
+    uniqueID: 2624587205
+    locked: 0

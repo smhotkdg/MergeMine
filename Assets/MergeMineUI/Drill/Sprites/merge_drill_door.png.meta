@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 436df65d6b1702c44a7ba1afd41e12ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7092191287372048184
+    second: merge_drill_door 0
+  - first:
+      213: 1598485755914791270
+    second: merge_drill_door 1
+  - first:
+      213: 2251027386635088620
+    second: merge_drill_door 2
+  - first:
+      213: 4435571130488624988
+    second: merge_drill_door 3
+  - first:
+      213: 8782325965719678737
+    second: merge_drill_door 4
+  - first:
+      213: -548334622906429545
+    second: merge_drill_door 5
+  - first:
+      213: -8337292053720344477
+    second: merge_drill_door 6
+  - first:
+      213: -8150838728336097396
+    second: merge_drill_door 7
+  - first:
+      213: -7736692315607983284
+    second: merge_drill_door 8
+  - first:
+      213: 155611220622476108
+    second: merge_drill_door 9
+  - first:
+      213: -3443406336072031061
+    second: merge_drill_door 10
+  - first:
+      213: -22441710184165560
+    second: merge_drill_door 11
+  - first:
+      213: -6822153561450301468
+    second: merge_drill_door 12
+  - first:
+      213: -835991956587804170
+    second: merge_drill_door 13
+  - first:
+      213: 4500551567374799787
+    second: merge_drill_door 14
+  - first:
+      213: -6439240358175765590
+    second: merge_drill_door 15
+  - first:
+      213: -6792730437798802435
+    second: merge_drill_door 16
+  - first:
+      213: 3083387130426822447
+    second: merge_drill_door 17
+  - first:
+      213: -4600151150692695761
+    second: merge_drill_door 18
+  - first:
+      213: -4704043468348054720
+    second: merge_drill_door 19
+  - first:
+      213: 2808297449048628458
+    second: merge_drill_door 20
+  - first:
+      213: -4616033379832699435
+    second: merge_drill_door 21
+  - first:
+      213: -3005355554065652402
+    second: merge_drill_door 22
+  - first:
+      213: 4618367315693829686
+    second: merge_drill_door 23
+  - first:
+      213: -5947220354723296629
+    second: merge_drill_door 24
+  - first:
+      213: -3979352959660514965
+    second: merge_drill_door 25
+  - first:
+      213: -3000749784975116445
+    second: merge_drill_door 26
+  - first:
+      213: 1364206870556502560
+    second: merge_drill_door 27
+  - first:
+      213: -7602003355398623248
+    second: merge_drill_door 28
+  - first:
+      213: 128178563609956573
+    second: merge_drill_door 29
+  - first:
+      213: -7115671293733454712
+    second: merge_drill_door 30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: merge_drill_door 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b07e777c1bec6c4fa5f8002d1362ca8
+      internalID: 7092191287372048184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f71a8e4041a54eb4f80a3f6e37f37
+      internalID: 1598485755914791270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1f5d18de6e254fad471479d03defc
+      internalID: 2251027386635088620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ce3b94b3a6c44eae6982840650e33
+      internalID: 4435571130488624988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e4a49e0bb5ee4eaec57059f70b602
+      internalID: 8782325965719678737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90fb84b0603b343a1a29a790d53b66
+      internalID: -548334622906429545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1024
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f6af116298b6458afe2bc4e6a7e5f
+      internalID: -8337292053720344477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c4f3b43428fc4a94a802aa7350f2a
+      internalID: -8150838728336097396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a1846aa9cbe94d8e163ce4fdaa75b
+      internalID: -7736692315607983284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe3b145635d80469e56cd10dd4c831
+      internalID: 155611220622476108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43fe39b54ab4440a652b7109310606
+      internalID: -3443406336072031061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd7aaf37fb5474eb230272227b7f9e
+      internalID: -22441710184165560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 768
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c11d662b5e524e85887faea898631
+      internalID: -6822153561450301468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb24361ebb0024699e4884b7dee2b9
+      internalID: -835991956587804170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae48802bfbabe04ab91077f25bfe7d9
+      internalID: 4500551567374799787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884fac00d8132fe4389bee7520a81bb1
+      internalID: -6439240358175765590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741037b4fe9131c4783c5e0bbde1c906
+      internalID: -6792730437798802435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70f14e353cf20442ba2cd12713b3ddf
+      internalID: 3083387130426822447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bc077a0b200164784922e729f80105
+      internalID: -4600151150692695761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1833a2de506fc01419cbdd22d5ff2387
+      internalID: -4704043468348054720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa931cfe62cdef84da9d7a2a141381e5
+      internalID: 2808297449048628458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c1fa3b08e17845abf0f546924c46d
+      internalID: -4616033379832699435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570cb7bcf2c210547af32115d6ead9fe
+      internalID: -3005355554065652402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a2bff28476a141a7ceca1a0834977
+      internalID: 4618367315693829686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e87c35313988849b53439d5df61cfd
+      internalID: -5947220354723296629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff967aa70e92246b1a79e3bea36c07
+      internalID: -3979352959660514965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdcdd1767b37474181ee6076a674dd2
+      internalID: -3000749784975116445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4f52fd12dd8f348b267ed32061fb1e
+      internalID: 1364206870556502560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e1b46a3449894095822f2eae51f22
+      internalID: -7602003355398623248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d481c442b47ca2c43a91e55fccda16f6
+      internalID: 128178563609956573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merge_drill_door 30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa3a07c08c0834ca40e0bc645e3c2a
+      internalID: -7115671293733454712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 285dbabb41145f44eb5f4a1e2db929a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974360808652",
+    "firebase_url": "https://mergemine-b1b86.firebaseio.com",
+    "project_id": "mergemine-b1b86",
+    "storage_bucket": "mergemine-b1b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974360808652:android:18bfe7da5feb92d7e7c669",
+        "android_client_info": {
+          "package_name": "com.hoitstudio.mergemine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974360808652-dmq31hhk1tqrcqum6qe8qc45rvin4h83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DFnijhXB_yh9_BDPkr0sab_U0CEMW3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974360808652-dmq31hhk1tqrcqum6qe8qc45rvin4h83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 2bb84e44464ef9045bd02c8b1cd5d271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -786846339774608486
+    second: drill_background_198_352 0
+  - first:
+      213: 4582262465217145880
+    second: drill_background_198_352 1
+  - first:
+      213: -459402258089919514
+    second: drill_background_198_352 2
+  - first:
+      213: -1605057890392944282
+    second: drill_background_198_352 3
+  - first:
+      213: 7938161123299839338
+    second: drill_background_198_352 4
+  - first:
+      213: -5821985030006171459
+    second: drill_background_198_352 5
+  - first:
+      213: 9203959497770949145
+    second: drill_background_198_352 6
+  - first:
+      213: 6016381094037398161
+    second: drill_background_198_352 7
+  - first:
+      213: 629871702743249012
+    second: drill_background_198_352 8
+  - first:
+      213: -3825073228521668545
+    second: drill_background_198_352 9
+  - first:
+      213: -8150634606466360430
+    second: drill_background_198_352 10
+  - first:
+      213: 8127352767009793879
+    second: drill_background_198_352 11
+  - first:
+      213: -8466600520792038704
+    second: drill_background_198_352 12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1408
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drill_background_198_352 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb34de643d7ed4f8ad8d499d15f85a
+      internalID: -786846339774608486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1056
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c03044ef5b6f4192b3bb906c3ba7f
+      internalID: 4582262465217145880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1056
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1970bb2eddea64f85015f4aed13701
+      internalID: -459402258089919514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1056
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7afc6e3afe0a047b8237fb8dac61cb
+      internalID: -1605057890392944282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954eb211c4e626c4b91851a294cc9357
+      internalID: 7938161123299839338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 704
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a63b861c141a140a1415436d1ee285
+      internalID: -5821985030006171459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 704
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d8a6e707d77f4495eda37e5d85482
+      internalID: 9203959497770949145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 704
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e592bb7dfb85ee14aac99341b4ea421a
+      internalID: 6016381094037398161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e656c42d106f468c1823ded125b22
+      internalID: 629871702743249012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 352
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b584233e52e157744b199edfcae55078
+      internalID: -3825073228521668545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 352
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b85a76ce6ca3f14f8c720b008f9c759
+      internalID: -8150634606466360430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 352
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e411735cbf6d4749870160c6a6f0c5e
+      internalID: 8127352767009793879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drill_background_198_352 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b17f338e8f4be49afc3041eb497d46
+      internalID: -8466600520792038704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b7a6bbd08778b5749b163d04284b5c51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

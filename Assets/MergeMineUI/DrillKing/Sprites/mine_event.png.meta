@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: a725e68a22da69442bff15511bbdfa23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2546270790076466573
+    second: mine_event 0
+  - first:
+      213: 2187382676250377411
+    second: mine_event 1
+  - first:
+      213: -7497358787906038229
+    second: mine_event 2
+  - first:
+      213: 4335033853908507134
+    second: mine_event 3
+  - first:
+      213: -7899852693560354761
+    second: mine_event 4
+  - first:
+      213: 1251181055156365823
+    second: mine_event 5
+  - first:
+      213: 5897616988976224725
+    second: mine_event 6
+  - first:
+      213: 1368760881592159747
+    second: mine_event 7
+  - first:
+      213: 1019719884592869477
+    second: mine_event 8
+  - first:
+      213: -1821163907989662577
+    second: mine_event 9
+  - first:
+      213: -449725707950889093
+    second: mine_event 10
+  - first:
+      213: 2505965278473378528
+    second: mine_event 11
+  - first:
+      213: 3070610122242503240
+    second: mine_event 12
+  - first:
+      213: -9165378523315697102
+    second: mine_event 13
+  - first:
+      213: 7714598020480111944
+    second: mine_event 14
+  - first:
+      213: -4066050237482581544
+    second: mine_event 15
+  - first:
+      213: -3867945454872384858
+    second: mine_event 16
+  - first:
+      213: 4532594220706686470
+    second: mine_event 17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 960
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mine_event 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675ff4ea2cc56346a59cc84894be7e2
+      internalID: 2546270790076466573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda2d01fb6ff654e8d7e8a32a8a719c
+      internalID: 2187382676250377411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae02fba810346e4da3729ebbd3ef337
+      internalID: -7497358787906038229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81d56a802281f4b89fe82a6cd0ef92
+      internalID: 4335033853908507134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ed6ec29ed7f049b9ce13f1fe69d96
+      internalID: -7899852693560354761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30738387bc4b1dd40bded2d0d0d97960
+      internalID: 1251181055156365823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e9ca66e2fed984281e257286b3f65a
+      internalID: 5897616988976224725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2bbe01de5af1041ac99dbd78c38bba
+      internalID: 1368760881592159747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a539550df92033488845c438c53fa09
+      internalID: 1019719884592869477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affed28c0c1995c4fa1a7f7188be3823
+      internalID: -1821163907989662577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37f35a69df7f7d47b194d638314149e
+      internalID: -449725707950889093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 100
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940efc7cd1988b34bad3b5a22254a973
+      internalID: 2505965278473378528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f374200d80ef7944b10f768e372b684
+      internalID: 3070610122242503240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742ba170f08b3c42ba974c4ac7f9b2d
+      internalID: -9165378523315697102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f897baa70419c4a9c1f6742f883856
+      internalID: 7714598020480111944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c50de3aa38e144bec722bda2b1421
+      internalID: -4066050237482581544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0234571cc3a5d2f4b85f6de2ccff0f76
+      internalID: -3867945454872384858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mine_event 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 240
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4272fa8f7a7eb2c47b9b0925ea26519f
+      internalID: 4532594220706686470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5670f6b245d94834ea61c17e041e2aca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
